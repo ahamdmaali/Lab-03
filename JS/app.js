@@ -11,3 +11,4 @@ if (amountofcups>=7 && amountofcups<10){
     alert("Total Price =" + totalprice + "JD");
 }
 
+
